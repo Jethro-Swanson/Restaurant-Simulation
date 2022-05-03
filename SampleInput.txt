@@ -1,0 +1,9 @@
+1 9 Stew Onion Olive Carrot
+3 50 Burger Lettuce Mustard Worm
+10 50 Pizza Pepperoni Pickle Mushroom
+10 50 Pizza Sausage Pickle Olive
+10 50 Stew GroundBeef Cheese
+10 50 Salad Lettuce Lettuce Lettuce Lettuce Lettuce
+20 44 Stew Fig Olive Ants
+31 59 Burger Alligator Ice Rocks
+50 199 Pizza Slime Pens Oranges Celery Pineapple Tomato Potatoes Chicken Coriander ABCD Burger Stew IngredientNumber999
